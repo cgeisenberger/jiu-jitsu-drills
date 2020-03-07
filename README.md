@@ -1,8 +1,6 @@
-### Warm up
+### Warmups
 
-
-* elevations
-
+* Elevation drill
 
 
 ### Butterfly Guard
