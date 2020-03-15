@@ -36,7 +36,13 @@
   - foot on hip & push (shrimp out aswell)
 * flat on back
 
-  
+
+
+### Glossary 
+
+| Abbreviation  | Term                   |
+| :------------ |:----------------------:|
+| RDLR          | Reverse De La Riva     |
   
   
   
