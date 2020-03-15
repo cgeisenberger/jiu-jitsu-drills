@@ -34,15 +34,21 @@
   - RDLR + butterfly hook on same leg
 * flat on back, uke smash passes with underhook
   - foot on hip & push (shrimp out aswell)
-* flat on back
-
+* flat on back, uke grabs ankles
+  - flap feets out like a seal
+* flat on back, uke graps shins
+  - strip grips with spider guard & lasso
+  - control one wrist if possible
+* flat on back, uke controls knee and hip
+  - stiff arm on ukes shoulders -> get lasso
 
 
 ### Glossary 
 
 | Abbreviation  | Term                   |
-| :------------ |:----------------------:|
+| :-----------: |:----------------------:|
 | RDLR          | Reverse De La Riva     |
+| SLX           | Single Leg X (Ashi)    |
   
   
   
